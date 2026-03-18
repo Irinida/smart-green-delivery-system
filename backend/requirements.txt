@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pymongo
+scikit-learn
+ortools
+pandas
+numpy
+python-dateutil
+pydantic
